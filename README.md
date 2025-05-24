@@ -29,7 +29,7 @@
 
 ---
 
-## การอ่านค่า Evaluation Metrics (Precision / Recall / F1-score)
+## การอ่านค่า Evaluation Metrics (Confusion Matrix / Recall / Precision / F1-score)
 
 ### 📊 Confusion Matrix
 
