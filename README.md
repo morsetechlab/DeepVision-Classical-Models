@@ -21,13 +21,11 @@
 
 ## Feature
 
-```
 - ฝึกโมเดลด้วย PyTorch
 - แสดงผล Accuracy / Loss ต่อ Epoch
 - แสดง Confusion Matrix, Precision, Recall, F1
 - ทำ Inference แบบสุ่มจาก test set พร้อมแสดงผลภาพ
 - Export โมเดลเป็น `.pt` ไฟล์สำหรับใช้งานจริง
-```
 
 ---
 
