@@ -5,7 +5,7 @@
 [![Stars](https://img.shields.io/github/stars/morsetechlab/deepvision-classic-models?style=social)](https://github.com/morsetechlab/deepvision-classic-models)
 
 โปรเจกต์นี้รวบรวมสถาปัตยกรรมของโมเดล Deep Learning แบบคลาสสิกที่ใช้งานในงานด้าน Computer Vision  
-เน้นการเขียนโค้ดด้วย PyTorch อย่างเข้าใจง่าย เพื่อศึกษา ทบทวน และทดลองได้ด้วยตนเอง เริ่มต้นจาก LeNet-5 ที่ออกแบบมาสำหรับชุดข้อมูล MNIST
+เน้นการเขียนโค้ดด้วย PyTorch อย่างเข้าใจง่าย เพื่อศึกษา ทบทวน และทดลองได้ด้วยตนเอง
 
 ---
 
